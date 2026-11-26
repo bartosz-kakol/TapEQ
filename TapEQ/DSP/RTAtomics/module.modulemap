@@ -1,0 +1,4 @@
+module RTAtomics {
+    header "RTAtomics.h"
+    export *
+}

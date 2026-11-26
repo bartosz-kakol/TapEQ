@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>NSAudioCaptureUsageDescription</key>
+	<string>TapEQ captures the audio that apps play so it can apply your equalizer presets and play the result on your output device. Audio is processed in real time and is never recorded or stored.</string>
+</dict>
+</plist>
